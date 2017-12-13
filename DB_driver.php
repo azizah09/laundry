@@ -1,9 +1,5 @@
 <?php
 /**
- 
-defined('BASEPATH') OR exit('No direct script access allowed');
-
-/**
  * Database Driver Class
  *
  * This is the platform-independent base DB implementation class.
